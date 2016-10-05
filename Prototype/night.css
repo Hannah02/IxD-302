@@ -1,0 +1,37 @@
+/*reset*/ h1,h4 {margin:0;}
+
+/* basic styles */
+h1 { margin-bottom: 10px; }
+div { 
+  width: 680px;
+  padding: 10px 25px;
+  margin: 50px auto;
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.4); 
+  color: #1F1F1F;
+}
+
+/* backgrounds */
+.day { background-image: url('Day.svg');
+background-repeat: no-repeat;
+background-size: 100%;}
+.sunset { background-image: url('Evening.svg');
+background-repeat: no-repeat;
+background-size: 100%;}
+.night { background-image: url('Night.svg');
+background-repeat: no-repeat;
+background-size: 100%;}
+
+
+
+.day,
+.sunset,
+.night {width: 100vw;
+    position: relative;
+ max-width: 100%;
+    max-height: 100%;}
+
+h1 {position: relative;
+    margin-top: 100%;
+    text-align: center;
+    font-family: sans-serif;}
