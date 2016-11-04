@@ -10,6 +10,7 @@ The original content without any formatting
 Content sorted and formatted using HTML
 
 - [First formatitng](https://Hannah02.github.io/IxD-302/Bird/index.html)
+Just setting out the text to get the flow of the piece. Not finished!
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
 
