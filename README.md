@@ -9,7 +9,7 @@ The original content without any formatting
 - [HTML](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.html)
 Content sorted and formatted using HTML
 
--[First formatitng](https://Hannah02.github.io/IxD-302/Bird/index.html)
+- [First formatitng](https://Hannah02.github.io/IxD-302/Bird/index.html)
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
 
