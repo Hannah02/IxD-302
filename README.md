@@ -3,6 +3,9 @@ Narrative and Storytelling
 
 ###Bird Website
 
+- [Style Tile] (https://Hannah02.github.io/IxD-302/BirdStyleTile.jpg) 
+Defining specific design elements for my the bird website
+
 - [Original text file](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.txt)
 The original content without any formatting
 
@@ -13,9 +16,10 @@ Content sorted and formatted using HTML
 Just setting out the text to get the flow of the piece. Not finished!
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
+Some illustrations that fit in with the with the colour scheme of the website.
 
 - [Animation Prototype](https://dribbble.com/shots/3025492-Landscape-for-New-Zealand-Bird-Project)
-
+One of the illustrations, animated with After Effects
 
 ###Heroes and Villians
 
