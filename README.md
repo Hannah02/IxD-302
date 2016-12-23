@@ -16,7 +16,7 @@ Content sorted and formatted using HTML
 Just setting out the text to get the flow of the piece. Not finished!
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
-Some illustrations that fit in with the with the colour scheme of the website.
+Some illustrations that fit in with the with the colour scheme of the website
 
 - [Animation Prototype](https://dribbble.com/shots/3025492-Landscape-for-New-Zealand-Bird-Project)
 One of the illustrations, animated with After Effects
@@ -25,3 +25,6 @@ One of the illustrations, animated with After Effects
 
 - [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
 Style tile to get an idea of what I want to show with my website.
+
+- [HTML](https://Hannah02.github.io/IxD-302/HeroesMarkup/index.html)
+Content sorted and formatted using HTML
