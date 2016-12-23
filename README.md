@@ -2,9 +2,7 @@
 Narrative and Storytelling
 
 ##Bird Website
-
-- [Style Tile] (https://Hannah02.github.io/IxD-302/BirdStyleTile.jpg) 
-Defining specific design elements for my the bird website
+###Lesson 1: HTML and Semantics
 
 - [Original text file](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.txt)
 The original content without any formatting
@@ -20,6 +18,19 @@ Some illustrations that fit in with the with the colour scheme of the website
 
 - [Animation Prototype](https://dribbble.com/shots/3025492-Landscape-for-New-Zealand-Bird-Project)
 One of the illustrations, animated with After Effects
+
+###Lesson 2: Art Direction and Element Collages
+
+- [Style Tile] (https://Hannah02.github.io/IxD-302/BirdStyleTile.jpg) 
+Defining specific design elements for my the bird website
+
+###Lesson 3: Typography
+
+###Lesson 4: Responsive Web Design (RWD)
+
+###Lesson 5: Macro- and Micro-Interactions
+
+
 
 ##Heroes and Villians
 
