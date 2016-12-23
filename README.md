@@ -11,7 +11,7 @@ The original content without any formatting
 Content sorted and formatted using HTML
 
 - [First formating](https://Hannah02.github.io/IxD-302/Bird/index.html)
-Just setting out the text to get the flow of the piece. Not finished!
+First attempt at laying out piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout.
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
 Some illustrations that fit in with the with the colour scheme of the website
