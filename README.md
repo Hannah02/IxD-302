@@ -1,5 +1,4 @@
-# IxD-302
-Narrative and Storytelling
+# IxD-302 Narrative and Storytelling
 
 #Bird Website
 ###Lesson 1: HTML and Semantics
