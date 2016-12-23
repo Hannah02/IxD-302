@@ -12,7 +12,7 @@ The original content without any formatting
 - [HTML](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.html)
 Content sorted and formatted using HTML
 
-- [First formatitng](https://Hannah02.github.io/IxD-302/Bird/index.html)
+- [First formating](https://Hannah02.github.io/IxD-302/Bird/index.html)
 Just setting out the text to get the flow of the piece. Not finished!
 
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
@@ -25,6 +25,9 @@ One of the illustrations, animated with After Effects
 
 - [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
 Style tile to get an idea of what I want to show with my website.
+
+- [Original text file](https://Hannah02.github.io/IxD-302/HeroesMarkup/HTMLandSemantics.pdf)
+The original H&V content as it was given to us
 
 - [HTML](https://Hannah02.github.io/IxD-302/HeroesMarkup/index.html)
 Content sorted and formatted using HTML
