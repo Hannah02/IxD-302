@@ -1,7 +1,7 @@
 # IxD-302
 Narrative and Storytelling
 
-##Bird Website
+#Bird Website
 ###Lesson 1: HTML and Semantics
 
 - [Original text file](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.txt)
@@ -32,13 +32,18 @@ Defining specific design elements for my the bird website
 
 
 
-##Heroes and Villians
+#Heroes and Villians
 
-- [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
-Style tile to get an idea of what I want to show with my website.
+###Lesson 1: HTML and Semantics
 
 - [Original text file](https://Hannah02.github.io/IxD-302/HeroesMarkup/HTMLandSemantics.pdf)
 The original H&V content as it was given to us
 
 - [HTML](https://Hannah02.github.io/IxD-302/HeroesMarkup/index.html)
 Content sorted and formatted using HTML
+
+###Lesson 2: Art Direction and Element Collages
+
+- [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
+Style tile to get an idea of what I want to show with my website.
+
