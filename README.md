@@ -1,7 +1,7 @@
 # IxD-302
 Narrative and Storytelling
 
-###Bird Website
+##Bird Website
 
 - [Style Tile] (https://Hannah02.github.io/IxD-302/BirdStyleTile.jpg) 
 Defining specific design elements for my the bird website
@@ -21,7 +21,7 @@ Some illustrations that fit in with the with the colour scheme of the website
 - [Animation Prototype](https://dribbble.com/shots/3025492-Landscape-for-New-Zealand-Bird-Project)
 One of the illustrations, animated with After Effects
 
-###Heroes and Villians
+##Heroes and Villians
 
 - [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
 Style tile to get an idea of what I want to show with my website.
