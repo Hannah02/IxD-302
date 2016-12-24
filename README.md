@@ -50,7 +50,7 @@ Content sorted and formatted using HTML
 - [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
 Mood board to get an idea of what I want to show with my website.
 
--[Style Tile](https://Hannah02.github.io/IxD-302/HeroesAndVilliansStyleTile.jpg)
+- [Style Tile](https://Hannah02.github.io/IxD-302/HeroesAndVilliansStyleTile.jpg)
 Defining specific design elements for my the H&V website
 
 ###Lesson 3: Typography
