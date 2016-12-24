@@ -25,6 +25,10 @@ Defining specific design elements for my the bird website
 
 ###Lesson 3: Typography
 
+- [Typography Project] (IxD-302/TypographicPoster/index.html) 
+Recreating this type poster with a quote from the game Bioshock Infinite.
+Here is the [original image] (http://68.media.tumblr.com/7c36d1969fd8241c9b6fe8b5f08bb12a/tumblr_mp1aa3kZLy1qegfryo4_500.jpg) for comparison. 
+
 ###Lesson 4: Responsive Web Design (RWD)
 
 ###Lesson 5: Macro- and Micro-Interactions
@@ -44,5 +48,16 @@ Content sorted and formatted using HTML
 ###Lesson 2: Art Direction and Element Collages
 
 - [Mood Board](https://niice.co/m/94ca86dbd05687d149b4b5aea6fbe644)
-Style tile to get an idea of what I want to show with my website.
+Mood board to get an idea of what I want to show with my website.
+
+-[Style Tile](https://Hannah02.github.io/IxD-302/HeroesAndVilliansStyleTile.jpg)
+Defining specific design elements for my the H&V website
+
+###Lesson 3: Typography
+
+See above (Bird Project, Lesson 3: Typography)
+
+###Lesson 4: Responsive Web Design (RWD)
+
+###Lesson 5: Macro- and Micro-Interactions
 
