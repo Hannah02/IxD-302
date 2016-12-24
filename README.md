@@ -9,9 +9,6 @@ The original content without any formatting
 - [HTML](https://Hannah02.github.io/IxD-302/finding-an-extinct-new-zealand-bird.html)
 Content sorted and formatted using HTML
 
-- [First formating](https://Hannah02.github.io/IxD-302/Bird/index.html)
-First attempt at laying out piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout.
-
 - [Initial Illustrations](https://Hannah02.github.io/IxD-302/NZ.jpg)
 Some illustrations that fit in with the with the colour scheme of the website
 
@@ -30,6 +27,9 @@ Recreating this type poster with a quote from the game Bioshock Infinite.
 Here is the [original image] (http://68.media.tumblr.com/7c36d1969fd8241c9b6fe8b5f08bb12a/tumblr_mp1aa3kZLy1qegfryo4_500.jpg) for comparison. 
 
 ###Lesson 4: Responsive Web Design (RWD)
+
+- [First formating in CSS](https://Hannah02.github.io/IxD-302/Bird/index.html)
+First attempt at laying out the text of this piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout (which you can see in my second attempt, and finished website)
 
 ###Lesson 5: Macro- and Micro-Interactions
 
