@@ -34,7 +34,7 @@ First attempt at laying out the text of this piece with CSS. This was later scra
 
 ###Lesson 5: Macro- and Micro-Interactions
 
-- [Chunking Content] 
+- Chunking Content -
 With regards to chunking content, I had already considered this and integrated it into the design when doing the CSS for this site. Each area is given its own section, heading and subheading. I added my own subheadings to the content to liven it up a little and make the story more memorable. 
 
 
