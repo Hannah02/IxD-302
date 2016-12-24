@@ -31,8 +31,11 @@ Here is the [original image] (http://68.media.tumblr.com/7c36d1969fd8241c9b6fe8b
 - [First formating in CSS](https://Hannah02.github.io/IxD-302/Bird/index.html)
 First attempt at laying out the text of this piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout (which you can see in my second attempt, and finished website)
 
+
 ###Lesson 5: Macro- and Micro-Interactions
 
+- [Chunking Content] 
+With regards to chunking content, I had already considered this and integrated it into the design when doing the CSS for this site. Each area is given its own section, heading and subheading. I added my own subheadings to the content to liven it up a little and make the story more memorable. 
 
 
 #Heroes and Villians
