@@ -24,7 +24,7 @@ Defining specific design elements for my the bird website
 
 ###Lesson 3: Typography
 
-- [Typography Project] (IxD-302/TypographicPoster/index.html) 
+- [Typography Project] (https://Hannah02.github.io/IxD-302/TypographicPoster/index.html) 
 Recreating this type poster with a quote from the game Bioshock Infinite.
 Here is the [original image] (http://68.media.tumblr.com/7c36d1969fd8241c9b6fe8b5f08bb12a/tumblr_mp1aa3kZLy1qegfryo4_500.jpg) for comparison. 
 
