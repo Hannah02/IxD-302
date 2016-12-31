@@ -66,6 +66,7 @@ Defining specific design elements for my the H&V website
 ###Lesson 3: Typography
 
 See above (Bird Project, Lesson 3: Typography)
+The text shadow effect I learned in this exercise is something I tried to replicate in this project to create a cheesy 8-bit game feel to my site.
 
 ###Lesson 4: Responsive Web Design (RWD)
 
