@@ -70,9 +70,13 @@ The text shadow effect I learned in this exercise is something I tried to replic
 
 ###Lesson 4: Responsive Web Design (RWD)
 
-- [Finished CSS]
+- [Finished CSS] (https://Hannah02.github.io/IxD-302/HeroesCSS/index.html) 
+Basic CSS markup including initial microinteractions (revealing content on scroll) and animations.
 
-- [Media Queries]
+- [Media Queries] (https://Hannah02.github.io/IxD-302/HeroesResponsive/)
+Added a Media Query that changes the site and disables the reveal on scroll that (in this case) doesnt work well on mobile.
+It makes the information larger and slightly more condensed so it can be viewed better.
+
 
 ###Lesson 5: Macro- and Micro-Interactions
 
