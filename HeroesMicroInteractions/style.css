@@ -1,0 +1,535 @@
+html {overflow-x: hidden;}
+
+/*Typography*/ 
+
+h3 {font-family: 'Press Start 2P', cursive;
+font-size: 3vw;
+    margin-top: 5vw;
+text-align: center;
+  padding: 1vw;
+  overflow: hidden;
+  border: none;
+  color: #C4A66D;
+    letter-spacing: 0.3vw;
+    font-kerning: normal;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-shadow: 0.3vw 0.3vw 0 #693A3A;}
+
+p {font-family: 'Play', sans-serif;
+color: #8A6E5C;
+width: 50vw;
+    font-size: 1.2vw;
+}
+
+
+h2 {font-family: 'Press Start 2P', cursive;
+font-size: 2vw;
+  
+    color: #fff;
+left: 0vw;
+ padding: 10px;
+  overflow: hidden;
+  border: none;
+  color: #C4A66D;
+    letter-spacing: 0.3vw;
+    font-kerning: normal;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-shadow: 0.3vw 0.3vw 0 #693A3A;}
+
+
+small {position: absolute;
+    margin-top: 205vw;
+width: 100vw;
+left: 0vw;
+    text-align: center;
+    line-height: 0.5vw;;
+font-size: 0.9vw;}
+
+#About a {color: #693A3A;}
+
+small a {color: #693A3A;}
+
+#Ability1 {text-align: left;
+width: 16vw;
+    left: 10vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+#Ability2 {text-align: left;
+width: 20vw;
+    left: 22.5vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+#Ability3 {text-align: left;
+width: 16vw;
+    left: 64vw;
+    top: 122vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+#Ability4 {text-align: left;
+width: 20vw;
+     left: 77vw;
+    top: 122vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+#Ability5 {text-align: left;
+width: 16vw;
+    left: 10vw;
+    top: 172vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+#Ability6 {text-align: left;
+width: 20vw;
+        left: 22.5vw;
+    top: 172vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+#Ability7 {text-align: left;
+width: 16vw;
+    left: 64vw;
+    top: 215vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+#Ability8 {text-align: left;
+width: 20vw;
+     left: 77vw;
+    top: 215vw;
+    position: absolute;
+    z-index: 299;
+font-family: 'Press Start 2P', cursive;
+font-size: 0.8vw;
+line-height: 1vw;}
+
+
+
+/*Layout*/ 
+
+body {background-color: black;}
+
+#Line {width: 100vw;
+height: 5vw;
+    position: relative;
+    left: 0vw;
+    top: 16vw;
+background-color: black;
+z-index: 50;
+}
+
+#About {margin-top: 0vw;
+width: 75vw;
+}
+
+#Sherlock {z-index: 55;
+    position: absolute;
+    margin-top: 20vw;
+left: 40vw;
+visibility: hidden;}
+
+#Watson {z-index: 55;
+    position: absolute;
+    margin-top: 50vw;
+right: 40vw;
+top: 50vw;
+visibility: hidden;}
+
+#Irene {z-index: 55;
+    position: absolute;
+    margin-top: 69vw;
+    left: 40vw;
+visibility: hidden;}
+
+#Moriarty {z-index: 55;
+    position: absolute;
+    margin-top: 116vw;
+right: 40vw;
+visibility: hidden;}
+
+#About {z-index: 55;
+    position: absolute;
+    width: 80vw;
+    margin-top: 155vw;
+left: 10vw;}
+
+#QuoteLine {width: 80vw;
+left: 10vw;
+position: absolute;
+    z-index: 100;
+background-color: #C4A66D;
+    height: 0.3vw;
+top: 245vw;}
+
+#QuoteLine2 {width: 80vw;
+left: 10vw;
+position: absolute;
+    z-index: 100;
+background-color: #C4A66D;
+    height: 0.3vw;
+top: 273vw;}
+
+
+blockquote {font-family: 'Play', cursive;
+    font-size: 3vw;
+    margin-top: 8vw;
+  
+    margin-bottom: 3vw;
+text-align: center;
+    font-weight:  900;
+  overflow: hidden;
+  border: none;
+  color: black;
+    letter-spacing: 0.3vw;
+    font-kerning: normal;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+overflow: hidden;
+  border: none;
+    letter-spacing: 0.3vw;
+    font-kerning: normal;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  text-shadow: 0.15vw 0.15vw 0 #693A3A;}
+
+cite {font-size: 1.5vw;
+    margin:auto;
+text-shadow: none;}
+
+#About p {color: black;}
+
+/*Images*/
+
+#SherlockPic, #WatsonPic, #IrenePic, #MoriartyPic {height: 11vw;
+top: 8vw;
+margin-left: 10vw;}
+
+#SherlockPic {margin-left: 17vw;}
+
+#Title1, #Title2, #Title3, #Title4 
+{width: 8vw;
+    z-index: 51;
+position: absolute;
+font-family: 'Press Start 2P', cursive;
+font-size: 1vw;
+text-align: center;
+top: 38vw;
+color: #8A6E5C;}
+
+#Title1 {margin-left: 17.5vw;}
+
+#Title2 {margin-left: 35.5vw;}
+
+#Title3 {margin-left: 54vw;}
+
+#Title4 {margin-left: 72.5vw;}
+
+#About p{width: 80vw;
+color: #8A6E5C;}
+
+
+
+#SherlockPic2 {margin-left: 15vw;
+height: 20vw;
+margin-top: 22vw;}
+
+
+#WatsonPic2 {margin-left: 40vw;
+height: 20vw;
+margin-top: 67vw;
+position: absolute;
+}
+
+#IrenePic2 {left: 15vw;
+height: 20vw;
+margin-top: 114vw;
+position: absolute;
+}
+
+#MoriartyPic2 {margin-left: 40vw;
+height: 20vw;
+margin-top: 160vw;
+position: absolute;
+}
+
+#Line2 {width: 10vw;
+height: 5vw;
+position: absolute;
+left: 18.5vw;
+top: 77vw;
+background-color: black;}
+
+
+#Line3 {width: 10vw;
+height: 5vw;
+position: absolute;
+left: 73.5vw;
+top: 122vw;
+background-color: black;}
+
+#Line4 {width: 10vw;
+height: 5vw;
+position: absolute;
+left: 18.5vw;
+top: 169.3vw;
+background-color: black;}
+
+
+#Line5 {width: 10vw;
+height: 5vw;
+position: absolute;
+left: 73.5vw;
+top: 215vw;
+background-color: black;}
+
+
+#SherlockHolmes {position: absolute;
+height: 5vw;
+width: 100vw;
+top: 48vw;}
+
+#DrJohnWatson {position: absolute;
+height: 5vw;
+width: 100vw;
+top: 92vw;}
+
+#IreneAddler {position: absolute;
+height: 5vw;
+width: 100vw;
+top: 138vw;}
+
+#ProfJamesMoriarty {position: absolute;
+height: 5vw;
+width: 100vw;
+top: 184vw;}
+
+
+#Border1 {width: 100vw;
+height: 0.3vw;
+position: absolute;
+top: 48vw;
+z-index: 100;
+    left: 0;
+background-color: #C4A66D;}
+
+#Border2 {width: 100vw;
+height: 0.3vw;
+position: absolute;
+    left: 0;
+top: 231vw;
+z-index: 10;
+background-color: #C4A66D;}
+
+
+#Border3 {width: 100vw;
+height: 27vw;
+position: absolute;
+    left: 0;
+top: 242vw;
+z-index: 10;
+background-color: #C4A66D;}
+
+small {margin-bottom: 1vw;}
+
+blockquote { color: #C4A66D;}
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    #Ability1 {left: 35vw;}
+    
+    #Ability2 {left: 55vw;}
+    
+    #SherlockPic2 {position: absolute;
+        left: 25vw;
+    top: 98vw;
+        height: 40vw;}
+    
+        #Sherlock {left: 10vw;}
+    #Sherlock p {width: 80vw;
+
+    margin-top: 50vw;}
+    
+    p, h1, h2, h3 {visibility: visible;}
+    
+    h3 {font-size: 10vw;
+    text-align: center;
+    width: 93vw;}
+    
+        #Ability3 {left: 35vw;
+    top: 150vw;}
+    
+    #Ability4 {left: 55vw;
+        top: 150vw;}
+    
+    #WatsonPic2 {position: absolute;
+        left: -vw;
+    top: 223vw;
+        height: 40vw;}
+    
+        #Watson {left: 10vw;}
+    #Watson p {width: 80vw;
+    margin-top: 50vw;}
+    #Watson h2 {margin-top: 178vw;
+    width: 80vw;}
+    
+        h2 {font-size: 5vw;}
+    
+    
+            #Ability5 {left: 35vw;
+    top: 150vw;}
+    
+    #Ability6 {left: 55vw;
+        top: 150vw;}
+    
+    #IrenePic2 {position: absolute;
+        left: 36vw;
+    top: 361vw;
+        height: 40vw;}
+    
+        #Irene {left: 10vw;}
+    #Irene p {width: 80vw;
+
+    margin-top: 50vw;}
+    #Irene h2 {margin-top: 310vw;
+    width: 80vw;}
+    
+        h2 {font-size: 5vw;}
+    
+    
+    
+     #Ability7, #Ability8, #Ability1, #Ability2, #Ability3, #Ability4, #Ability5, #Ability6 {visibility: hidden}
+    
+    #SherlockPic, #WatsonPic, #IrenePic, #MoriartyPic
+    {visibility: hidden;}
+    
+    
+    #Title1, #Title2, #Title3, #Title4  {visibility: hidden;}
+    
+
+    
+    #MoriartyPic2 {position: absolute;        
+    top: 482vw;
+        height: 40vw;}
+    
+        #Moriarty {left: 10vw;}
+    #Moriarty p {width: 80vw;
+
+    margin-top: 50vw;}
+    #Moriarty h2 {margin-top: 430vw;
+    width: 80vw;}
+    
+        h2 {font-size: 5vw;}
+    
+    #QuoteLine {margin-top: 579vw;}
+       #QuoteLine2 {margin-top: 605vw;}
+    
+    p {font-size: 3vw;}
+    
+    small {margin-top: 810vw;
+    font-size: 3vw;
+    line-height: 3vw;
+    width: 95vw;
+    left: 2.5vw;}
+    
+    #Line {top: 93vw;}
+    #Line2 {width: 70vw;
+        top: 330vw;
+    z-index: 100;}
+        #Line3 {width: 70vw;
+            left: 10vw;
+        top: 515vw;
+    z-index: 100;}
+    #Line4 {width: 70vw;
+            left: 10vw;
+        top: 682vw;
+    z-index: 100;}
+    
+    
+#About {margin-top: 700vw;}
+    blockquote {font-size: 4vw;}
+    cite {font-size: 3vw;}
+    
+    #HomeScreen p {visibility: hidden;
+    top: -300vw;}
+
+    .slideUp { -o-transition-property: none !important;
+ -moz-transition-property: none !important;
+ -ms-transition-property: none !important;
+ -webkit-transition-property: none !important;
+ transition-property: none !important;
+ /*CSS transforms*/
+ -o-transform: none !important;
+ -moz-transform: none !important;
+ -ms-transform: none !important;
+ -webkit-transform: none !important;
+ transform: none !important;
+ /*CSS animations*/
+ -webkit-animation: none !important;
+ -moz-animation: none !important;
+ -o-animation: none !important;
+ -ms-animation: none !important;
+ animation: none !important;
+    
+        animation-play-state: paused;
+        visibility: visible;
+    }
+    
+    
+}
+
+
+
+
+
+#Title1:hover {filter: brightness(2);}
+#Title2:hover {filter: brightness(2);}
+#Title3:hover {filter: brightness(2);}
+#Title4:hover {filter: brightness(2);}
+
+#SherlockPic:hover {filter: brightness(1.2)}
+#WatsonPic:hover {filter: brightness(1.2)}
+#IrenePic:hover {filter: brightness(1.2)}
+#MoriartyPic:hover {filter: brightness(1.2)}
+
+small a:hover {color: #C4A66D;}
+#About a:hover {color: #C4A66D;}
