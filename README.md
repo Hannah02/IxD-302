@@ -83,4 +83,5 @@ It makes the information larger and slightly more condensed so it can be viewed 
 - Chunking Content -
 With regards to chunking content, I had already considered this and integrated it into the design when doing the CSS for this site. Each area is given its own section, heading and subheading. I added my own subheadings to the content to liven it up a little and make the story more memorable. 
 
-- [Micro-interactions]
+- [Micro-interactions] (https://Hannah02.github.io/IxD-302/HeroesMicroInteractions)
+Adding :hover effects so the nav links light up a bit more to mimic a real arcade machine, and the links respond to being hovered over.
