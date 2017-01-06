@@ -36,7 +36,8 @@ First attempt at laying out the text of this piece with CSS. This was later scra
 - [Finished CSS design] (https://Hannah02.github.io/IxD-302/BirdSiteCSS/Index.html)
 My finished CSS design that gives heavy consideration to colour scheme and uses illustrative elements sparingly for more impact.
 
-- [Media Queries]
+- [Media Queries] (https://Hannah02.github.io/IxD-302/BirdResponsive/Index.html)
+Finished Bird site including a media query for mobile.
 
 ###Lesson 5: Macro- and Micro-Interactions
 
