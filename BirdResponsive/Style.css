@@ -1,0 +1,805 @@
+
+
+body {
+	font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+
+*,
+*:after,
+*::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+nav {text-align: center;
+position: fixed;
+z-index: 20;
+left: 0vw;
+    width: 100vw;
+background: #fff;}
+
+#Quest {top: 368vw;
+    height: 10vw;
+    width: 100vw;
+    left: 0;
+position: absolute;}
+
+
+nav a {
+    z-index: 20;
+	position: relative;
+	display: inline-block;
+	margin: 15px 25px;
+	outline: none;
+	color: #465FA0;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1vw;
+}
+
+nav a:hover,
+nav a:focus {
+	outline: none;
+    z-index: 20;
+}
+
+
+
+
+/* Nav Effects */
+
+.cl-effect-14 a {
+	padding: 0 1vw;
+	height: 3vw;
+	line-height: 3vw;
+}
+
+.cl-effect-14 a::before,
+.cl-effect-14 a::after {
+	position: absolute;
+	width: 3vw;
+	height: 2px;
+	background: #CF625A;
+	content: '';
+    opacity: 0.6;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	pointer-events: none;
+}
+
+.cl-effect-14 a::before {
+	top: 0;
+	left: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 0 0;
+	-moz-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+
+.cl-effect-14 a::after {
+	right: 0;
+	bottom: 0;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+	-webkit-transform-origin: 100% 0;
+	-moz-transform-origin: 100% 0;
+	transform-origin: 100% 0;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::before,
+.cl-effect-14 a:focus::after {
+	opacity: 1;
+}
+
+.cl-effect-14 a:hover::before,
+.cl-effect-14 a:focus::before {
+	left: 50%;
+	-webkit-transform: rotate(0deg) translateX(-50%);
+	-moz-transform: rotate(0deg) translateX(-50%);
+	transform: rotate(0deg) translateX(-50%);
+}
+
+.cl-effect-14 a:hover::after,
+.cl-effect-14 a:focus::after {
+	right: 50%;
+	-webkit-transform: rotate(0deg) translateX(50%);
+	-moz-transform: rotate(0deg) translateX(50%);
+    transform: rotate(0deg) translateX(50%);}
+
+
+/*background*/
+
+#Home {height: 50vw;
+width: 100vw;
+background-color: #FFFFFF;
+position: absolute;
+top: 0;
+left: 0;
+z-index: ;}
+
+#Discovered {width: 100vw;
+height: 5vw;
+position: absolute;
+top: 50vw;}
+
+#Discovered1 {height: 55.9vw;
+width: 100vw;
+background-color: #DD5152;
+top: 53vw;
+left: 0;
+    position: absolute;
+z-index:  -2;}
+
+#Wings {height: 66vw;
+width: 100vw;
+    left: 0;
+    top: 103vw;
+background-color: #8AD1AA;
+position: absolute;
+z-index: -20;
+ }
+
+
+
+nav {z-index: 200;}
+
+/*Gif and images*/
+
+#Island {width: 55vw;
+        margin-left: 22vw;
+    z-index: 2;
+    top: 5.5vw;
+position: absolute;}
+
+#RedPoints {width: 100vw;;
+    z-index: -9;
+    position: absolute;
+    overflow-x: hidden;
+top: -2.6vw;
+left: 0;}
+
+h1 {font-family: 'Arima Madurai', cursive;
+z-index: 2;
+position: absolute;
+line-height: 3vw;
+font-size: 3vw;
+left: 37vw;
+margin-top: 30vw;
+color: #8AF1AA;
+font-weight: 100;}
+
+h2 {text-align: left;
+    font-family: 'Arima Madurai', cursive;
+z-index: 2;
+    top: 0vw;
+position: absolute;
+line-height: 1.8vw;
+font-size: 2.3vw;
+    color: #8AD1AA;    
+}
+
+
+/*Discovered*/
+
+#DiscoveredTitle {left: 24vw;
+line-height: 2.2vw;
+top: 1vw;
+    color: #fff;
+font-weight: 500;
+padding-top: 2vw;}
+
+p {font-family: font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;}
+
+#DiscoveredParagraph {
+    position: absolute;
+width: 54.5vw;
+top: 14vw;
+left: 24vw;
+color: #fff;
+    font-weight: 300;
+font-size: 1.3vw;
+line-height: 1.4vw;}
+
+
+#DiscoveredHr {margin-top: 14vw;
+    width: 53vw;
+    position: absolute;
+    border: none;
+    margin-top: 12vw;
+    background-color: #D93D40;
+    height: 0.3vw;
+    left: 24vw;
+}
+
+#DiscoveredHr2 {margin-top: 48vw;
+    position: absolute;
+    width: 20vw;
+    border: none;
+    background-color: #D93D40;
+    height: 0.3vw;
+    left: 24vw;
+}
+
+#DiscoveredHr3 {margin-top: 48vw;
+    position: absolute;
+    width: 20vw;
+    border: none;
+    background-color: #D93D40;
+    height: 0.3vw;
+    left: 57vw;
+}
+
+#MagGlass {height: 6vw;
+    position: absolute;
+left: 49vw;
+top: 47vw;}
+
+#RedPoints2 {transform: rotate(180deg);
+    width: 100vw;
+    z-index: -9;
+    position: absolute;
+    overflow-x: hidden;
+top: 108.8vw;
+left: 0;
+}
+
+
+/*Wings*/
+
+
+#WingsHr1 {margin-top: 11.5vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 40vw;
+    left: 23.25vw;top: 8vw;}
+
+#WingsHr2 {margin-top: 11.5vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 40vw;
+    left: 76vw;
+top: 8vw;}
+
+#WingsTitle {position: absolute;
+    left: 32vw;
+line-height: 2.2vw;
+top: 11.5vw;
+font-weight: 500;
+z-index: 1;
+color: #4660A0;}
+
+#Stripes1 {width: 7vw;
+position: absolute;
+left: 68vw;
+top: 13.6vw;}
+
+#Stripes2 {width: 7vw;
+position: absolute;
+left: 24.9vw;
+top: 13.6vw;}
+
+#WingsParagraph {width: 48vw;
+position: absolute;
+left: 26.3vw;
+top: 18vw;
+    color: #fff;
+    font-weight: 300;
+font-size: 1.3vw;
+line-height: 1.4vw;
+}
+
+#Vanished {position: absolute;
+width: 100vw;
+height: 5vw;
+top: 210vw;}
+
+#WingsSubtitle {width: 54vw;
+    top: 16vw;
+    position: absolute;
+text-align: center;
+left: 23.3vw;
+font-weight: 100;
+font-style: italic;
+font-size: 1.5vw;
+    color: #4660A0;
+}
+
+/*Quote1*/
+
+
+
+
+#QuoteBackground {position: absolute;
+margin-top: 150vw;
+width: 110vw;
+left: -9vw;
+z-index: -100;
+top: 15vw;
+filter: brightness(0.45);}
+
+
+#Blockquote1 {position: absolute;
+top: 5vw;
+font-family: 'Arima Madurai', cursive;
+    text-align: center;
+    width: 50vw;
+    top: 174.5vw;
+    margin-left: 24vw;
+    font-weight: 900;
+line-height: 3vw;
+font-size: 2vw;
+z-index: -7;
+color: #fff;}
+
+
+#MoaParagraph {width: 47vw;
+margin-left: 26vw;
+margin-top: 223vw;
+color: #fff;
+    font-weight: 300;
+font-size: 1.3vw;
+line-height: 1.4vw;}
+
+#MoaBg {height: 85vw;
+width: 100vw;
+left: 0;
+    margin-top: -14vw;
+position: absolute;
+background-color: #8AD1AA;
+z-index: -10;}
+
+#MoaTitle {position: absolute;
+    left: 32vw;
+line-height: 2.2vw;
+top: 207.5vw;
+font-weight: 500;
+z-index: 1;
+color: #4660A0;}
+
+#Moa h2 {z-index: -5;
+margin-top: 10vw;}
+
+cite {color: #CF625A;}
+
+
+
+#ExpeditionBg {position: absolute;
+z-index: -2;
+width: 100vw;
+height: 81vw;
+background-color: #DD5152;
+left: 0;
+top: 288.3vw;}
+
+#RedPoints3 {top: 285.8vw;
+    left: 0;
+    width: 100vw;
+position: absolute;}
+
+#ExpeditionPara {width: 50vw;
+margin-left: 24.3vw;
+margin-top: 107vw;
+color: #fff;
+    font-weight: 300;
+font-size: 1.3vw;
+line-height: 1.4vw;}
+
+
+table 
+{text-align: center;
+color: white;
+position: absolute;
+margin-top: 25vw;
+width: 52vw;
+font-size: 1.8vw;
+left: 25.5vw;
+padding: 0;
+border-spacing: 0;}
+
+tr:first-child 
+{
+font-size: 2vw;
+background-color: #8AD1AA;}
+
+td:hover {
+  background-color: #465FA0;
+}
+
+th:hover {background-color:  #8AD1AA;}
+
+#TableTitle {position: absolute;
+    left: 25vw;
+line-height: 2.2vw;
+top: 294.5vw;
+font-weight: 500;
+z-index: 1;
+color: #FFF ;}
+
+#Tablehr {position: absolute;
+width: 54.6vw;
+    border: 0;
+height: 0.3vw;
+color:  #8AD1AA;
+    background-color: #8AD1AA;
+    text-decoration: none;
+z-index: 100;
+margin-top: 22vw;
+left: 24vw;}
+
+#Tablehr2 {position: absolute;
+width: 54.6vw;
+    border: 0;
+height: 0.3vw;
+color:  #8AD1AA;
+    background-color: #8AD1AA;
+    text-decoration: none;
+z-index: 100;
+margin-top: 40vw;
+left: 24vw;}
+
+#RedPoints4 {width: 100vw;
+position: absolute;
+transform: rotate(180deg);
+top: 369.1vw;
+left: 0;}
+
+#ExpeditionBackground2 {width: 100vw;
+position: absolute;
+left: 0;
+height: 50vw;
+top: 368vw;
+background-color: #8AD1AA;
+z-index: -3;}
+
+#ExpeditionTitle {position: absolute;
+    left: 35.5vw;
+line-height: 2.2vw;
+top: 378.5vw;
+font-weight: 500;
+z-index: 1;
+color: #4660A0;}
+
+#WintersBackground {width: 100vw;
+height: 55vw;
+left: 0;
+position: absolute;
+top: 417.8vw;
+background-color: #DD5152;}
+
+
+#RedPoints5
+{width: 100vw;
+position: absolute;
+top: 415.1vw;
+left: 0;}
+
+#RedPoints6
+{transform: rotate(180deg);
+    width: 100vw;
+position: absolute;
+top: 472.6vw;
+left: 0;}
+
+
+
+#Moa1 {margin-top: 217vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 57.4vw;
+    left: 23.25vw;top: 6vw;}
+
+#Moa2 {margin-top: 217vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 57.4vw;
+    left: 76vw;
+top: 6vw;}
+
+
+#Quest1 {margin-top: 381vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 19vw;
+    left: 23.25vw;top: 6vw;}
+
+#Quest2 {margin-top: 381vw;
+    position: absolute;
+    width: 0.5vw;
+    border: none;
+    background-color: #4660A0;
+    height: 19vw;
+    left: 76vw;
+top: 6vw;}
+
+#NewZealandPara {position: absolute;
+width: 50vw;
+left: 24.5vw;
+color: #fff;
+    font-weight: 300;
+font-size: 1.3vw;
+line-height: 1.4vw;
+    top: 430vw;
+}
+
+#NewZealandTitle {position: absolute;
+    left: 42.5vw;
+line-height: 2.2vw;
+top: 423.5vw;
+font-weight: 500;
+z-index: 1;
+color: #fff;}
+
+#Nzhr1 {top: 407.5vw;
+    width: 51.5vw;
+    position: absolute;
+    border: none;
+    margin-top: 22vw;
+    background-color: #D34348;
+    height: 0.3vw;
+    left: 24vw;
+    z-index: 10;
+}
+
+#Nzhr2 {top: 443vw;
+    width: 51.5vw;
+    position: absolute;
+    border: none;
+    margin-top: 22vw;
+    background-color: #D34348;
+    height: 0.3vw;
+    left: 24vw;
+    z-index: 10;
+}
+
+
+/* MAP */
+
+#Map {width: 50vw;
+    height: 40vw;
+    margin-left: 25vw;
+   position: absolute;
+    top: 326vw;
+    border-style: solid;
+    border-color: #8AD1AA;
+    border-width: 1vw;
+}
+
+#Footer {position: absolute;
+width: 100vw;
+height: 11vw;
+top: 520vw;
+background-color: #4660A0;
+left: 0;}
+
+
+/* Fun Facts */
+
+#FactsList {width: 50vw;
+    position: absolute;
+left: 24.5vw;
+color: #CF625A;
+font-size: 1.3vw;
+line-height: 1.4vw;}
+
+#FactsTitle {position: absolute;
+left: 26vw;
+width: 50vw;
+text-align: center;
+font-size: 5vw;
+top: -10vw;}
+
+
+#Facts {position: absolute;
+top: 490vw;}
+
+
+#Bird {position: absolute;
+width: 25vw;
+left: 60vw;
+top:493.6vw;}
+
+#FooterText {position: absolute;
+    font-size: 0.9vw;
+    width: 50vw;
+margin-top: 1.5vw;
+left: 25vw;
+    text-align: center;
+color: #fff;}
+
+#NewZealand {position: absolute;
+width: 100vw;
+top: 417vw;
+height: 5vw;}
+
+
+
+
+/* MEDIA QUERIES */ 
+
+
+@media only screen 
+   and (max-width : 420px) {
+       
+       nav {visibility: hidden;}
+       
+       #Island {width: 100vw;
+       margin-left: 0vw;
+       top: 35vw;}
+       
+       h1 {font-size: 10vw;
+       line-height: 1;
+       width: 100vw;
+       left: 0;
+       text-align: center;
+       top: -17vw;}
+       
+       #Discovered1 {top: 110vw;
+       height: 150vw;
+       z-index: 10}
+       
+       #DiscoveredTitle {font-size: 7vw;
+       line-height: 1;
+       left: 0; 
+       width: 100vw;
+       text-align: center;}
+
+       #DiscoveredParagraph {font-size: 3vw;
+       line-height: 1;
+       width: 75vw;
+       left: 13vw;
+       top: 40vw;}
+       
+       #MagGlass, #DiscoveredHr, #DiscoveredHr2, #DiscoveredHr3 {visibility: hidden;}
+       
+       #RedPoints2 {z-index: 100;
+       top: 260vw;}
+       
+       #Wings {top: 258vw;
+       z-index: 5;
+       height: 165vw;}
+       
+       #Stripes1, #Stripes2, #WingsHr1, #WingsHr2 {visibility: hidden;}
+       
+       #WingsTitle {font-size: 7vw;
+       line-height: 1;
+       left: 0; 
+       width: 100vw;
+       text-align: center;}
+       
+       #WingsParagraph {font-size: 3vw;
+       line-height: 1;
+       width: 75vw;
+       left: 13vw;
+       top: 35vw;}
+       
+       #QuoteBackground {top: 270vw;
+       z-index: 5;
+       filter: brightness(0.3);}
+       
+       #Blockquote1 {z-index: 90;
+       top: 427vw;
+       font-size: 4vw;
+       line-height: 1.4;
+       width: 80vw;
+       left: -13vw;}
+       
+       #Nzhr1, #Nzhr2 {visibility: hidden;}
+       
+       #MoaBg {top: 515vw;
+       z-index: -10;
+       height: 220vw;}
+    
+       
+       #MoaTitle {font-size: 7vw;
+       line-height: 1;
+       left: 0; 
+       width: 100vw;
+       text-align: center;
+       top: 505vw;
+       z-index: 100;}
+       
+       #MoaParagraph {font-size: 3vw;
+           position: absolute;
+       line-height: 1;
+       width: 75vw;
+       left: -13vw;
+       top: 315vw;}
+       
+       table {position: absolute;
+           top: 700vw;
+       width: 100vw;
+       left: 0;
+       font-size: 5vw;
+       color: #465FA0;}
+       
+       table td:hover {color: white;}
+       
+       th {font-size: 3vw}
+       
+       #ExpeditionBg {top: 760vw;
+       height: 100vw;}
+       
+       #ExpeditionTitle {font-size: 7vw;
+       line-height: 1;
+       left: 0; 
+       width: 100vw;
+       text-align: center;
+       top: 765vw;
+       z-index: 100;}
+       
+       #ExpeditionPara {font-size: 3vw;
+           position: absolute;
+       line-height: 1;
+       width: 75vw;
+       left: -13vw;
+       top: 680vw;}
+       
+       #RedPoints3 {top: 758vw;}
+        #RedPoints4 {top: 859.5vw;}
+       
+       #ExpeditionBackground2 {top: 860vw;
+           height: 135vw;
+       }
+       
+       #NewZealandTitle {font-size: 7vw;
+       line-height: 1;
+       left: 0; 
+       width: 100vw;
+       text-align: center;
+       top: 505vw;
+       z-index: 100;
+       top: 865vw;}
+       
+       #NewZealandPara {font-size: 3vw;
+           position: absolute;
+       line-height: 1;
+       width: 75vw;
+       left: 11vw;
+       top: 880vw;
+       }
+       
+       #Footer {top: 1123vw;
+       height: 40vw}
+       
+       #Footer small {font-size: 2vw;}
+       
+       #Facts {top: 1020vw;
+       left: -3vw}
+       #Facts h2 {font-size: 7vw;}
+       #Facts ul{font-size: 3vw;
+       line-height: 1;}
+       
+       #Bird {position: absolute;
+       top: 1070vw;
+       left: 28vw;
+       width: 50vw;}
+       
+       
+       hr {visibility: hidden;}
+}
