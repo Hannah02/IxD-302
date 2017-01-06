@@ -33,7 +33,8 @@ Here is the [original image] (http://68.media.tumblr.com/7c36d1969fd8241c9b6fe8b
 - [First formating in CSS](https://Hannah02.github.io/IxD-302/Bird/index.html)
 First attempt at laying out the text of this piece with CSS. This was later scrapped because I thought this flowing design was too complicated and I later used a simpler layout (which you can see in my second attempt, and finished website)
 
-- [Finished CSS design]
+- [Finished CSS design] (https://Hannah02.github.io/IxD-302/BirdSiteCSS/Index.html)
+My finished CSS design that gives heavy consideration to colour scheme and uses illustrative elements sparingly for more impact.
 
 - [Media Queries]
 
@@ -42,8 +43,8 @@ First attempt at laying out the text of this piece with CSS. This was later scra
 - Chunking Content -
 With regards to chunking content, I had already considered this and integrated it into the design when doing the CSS for this site. Each area is given its own section, heading and subheading. I added my own subheadings to the content to liven it up a little and make the story more memorable. 
 
-- [Micro-interactions]
-
+- Micro-interactions-
+I had already included micro-interactions in my finished css site in the table element and also the nav bar.
 
 #Heroes and Villians
 
