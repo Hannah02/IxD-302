@@ -17,7 +17,7 @@ One of the illustrations, animated with After Effects
 
 ###Lesson 2: Art Direction and Element Collages
 
-- [Mood Board] ()
+- [Mood Board] (https://Hannah02.github.io/IxD-302/BirdMoodBoard.jpg)
 
 - [Style Tile] (https://Hannah02.github.io/IxD-302/BirdStyleTile.jpg) 
 Defining specific design elements for my the bird website
